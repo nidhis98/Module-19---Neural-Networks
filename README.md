@@ -11,6 +11,7 @@ The variables(s) we considered targeting for this model would be the “IS_SUCCE
 For this model, I used two hidden layers with 20 and 10 neurons each. The reason for this was because the number of neurons used should be relatively equal the input and output layer.
 
 Figure 1 displays the model’s target performance:
+
 ![image](https://user-images.githubusercontent.com/93355719/161649366-64b9378a-e997-4f63-a217-3df541c0d51a.png)
 
 
