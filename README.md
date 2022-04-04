@@ -7,3 +7,11 @@ The purpose of this analysis was to utilize machine learning and neural networks
 Results
 
 The variables(s) we considered targeting for this model would be the “IS_SUCCESSFUL” variable, which determines whether the funding sent by Alphabet Soup was utilized successfully. The feature variables of our model are as follows: application type, affiliation, government classification, use of funding, type of organization, business status, income, special considerations, as well as the ask amount for loans. The variables which were removed from our input data were the “EIN” and “NAME columns, as they did not provide sufficient information to be used in our model.
+
+For this model, I used two hidden layers with 20 and 10 neurons each. The reason for this was because the number of neurons used should be relatively equal the input and output layer.
+
+Figure 1 displays the model’s target performance:
+
+
+
+To try and increase the model’s performance, the number of neurons and the number of hidden layers added were modified. Using a different activation function, in this case, sigmoid was used. 
