@@ -1,17 +1,18 @@
 # Module-19---Neural-Networks
 
-Overview of the Analysis
+### Overview of the Analysis
 
 The purpose of this analysis was to utilize machine learning and neural networks to predict if applications funded by the company, Alphabet Soup, will be successful. This was carried out by examining a series of features within a dataset. A neural network is then created in order to decipher the positive impact Alphabet Soup may have on its applicants.
 
-Results
+### Results
 
-The variables(s) we considered targeting for this model would be the ìIS_SUCCESSFULî variable, which determines whether the funding sent by Alphabet Soup was utilized successfully. The feature variables of our model are as follows: application type, affiliation, government classification, use of funding, type of organization, business status, income, special considerations, as well as the ask amount for loans. The variables which were removed from our input data were the ìEINî and ìNAME columns, as they did not provide sufficient information to be used in our model.
+The variables(s) we considered targeting for this model would be the ‚ÄúIS_SUCCESSFUL‚Äù variable, which determines whether the funding sent by Alphabet Soup was utilized successfully. The feature variables of our model are as follows: application type, affiliation, government classification, use of funding, type of organization, business status, income, special considerations, as well as the ask amount for loans. The variables which were removed from our input data were the ‚ÄúEIN‚Äù and ‚ÄúNAME columns, as they did not provide sufficient information to be used in our model.
 
 For this model, I used two hidden layers with 20 and 10 neurons each. The reason for this was because the number of neurons used should be relatively equal the input and output layer.
 
-Figure 1 displays the modelís target performance:
+Figure 1 displays the model‚Äôs target performance:
+![image](https://user-images.githubusercontent.com/93355719/161649366-64b9378a-e997-4f63-a217-3df541c0d51a.png)
 
 
 
-To try and increase the modelís performance, the number of neurons and the number of hidden layers added were modified. Using a different activation function, in this case, sigmoid was used. 
+To try and increase the model‚Äôs performance, the number of neurons and the number of hidden layers added were modified. Using a different activation function, in this case, sigmoid was used. 
