@@ -15,3 +15,7 @@ Figure 1 displays the model’s target performance:
 
 
 To try and increase the model’s performance, the number of neurons and the number of hidden layers added were modified. Using a different activation function, in this case, sigmoid was used. 
+
+Recommendation 
+
+As displayed above, this neural network model was unable to reach the accuracy score of 75% with the provided structure. The structure can be continually altered, by adding to the number of neurons, the hidden layers, or adjusting the activation function(s). It is also recommended that to explore other options, such as trying another algorithm, such as linear regression. The ensemble method can also be used, to combine two or more algorithms to provide a more accurate response.
