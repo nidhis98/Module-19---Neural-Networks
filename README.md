@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -778,3 +779,6 @@ To try and increase the model’s performance, the number of neurons and the num
 As displayed above, this neural network model was unable to reach the accuracy score of 75% with the provided structure. The structure can be continually altered, by adding to the number of neurons, the hidden layers, or adjusting the activation function(s). It is also recommended that to explore other options, such as trying another algorithm, such as linear regression. The ensemble method can also be used, to combine two or more algorithms to provide a more accurate response.
 
 >>>>>>> 33b230334047771ddc77feae6f46ab86a7b898b9
+=======
+# Neural_Network_Charity_Analysis-
+>>>>>>> 00061a96475001cbc7e89dc3dbd7a5550e187e67
