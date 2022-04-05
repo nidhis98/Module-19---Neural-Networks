@@ -23,4 +23,3 @@ To try and increase the model’s performance, the number of neurons and the num
 
 As displayed above, this neural network model was unable to reach the accuracy score of 75% with the provided structure. The structure can be continually altered, by adding to the number of neurons, the hidden layers, or adjusting the activation function(s). It is also recommended that to explore other options, such as trying another algorithm, such as linear regression. The ensemble method can also be used, to combine two or more algorithms to provide a more accurate response.
 
->>>>>>> a782f34834f311f88a006ac9e0c1388fa58f540b
